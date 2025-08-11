@@ -18,7 +18,7 @@
     "@fortawesome/react-native-fontawesome": "^0.2.7",
     "@hathor/wallet-lib": "^0.43.0",
     "@react-native-async-storage/async-storage": "^1.17.3",
-    "@sentry/react-native": "^3.4.1",
+    "@sentry/react-native": "^5.0.0",
     "assert": "^2.0.0",
     "buffer": "^4.9.2",
     "console-browserify": "^1.2.0",
